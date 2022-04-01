@@ -1,0 +1,15 @@
+{
+    "name": "Lersha API (Development)",
+    "app": {
+        "version": "v1",
+        "port": 7000
+    },
+    "database": {
+        "logging": false,
+        "port": "",
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "name": "users"
+    }
+}
